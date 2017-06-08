@@ -128,5 +128,3 @@ central_corridor.add_paths({
 
 START = central_corridor
 
-
-# print START.go('shoot!')
