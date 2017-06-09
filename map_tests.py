@@ -1,5 +1,6 @@
 from nose.tools import *
-from gothonweb.map import Room
+from gothonweb.map import Room, START, generic_death, laser_weapon_armory
+
 
 def test_room():
     gold = Room("GoldRoom",
